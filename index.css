@@ -114,3 +114,43 @@
 .t{
     color: grey;
 }
+.food1{
+    width: 500px;
+    margin-top: 100px;
+}
+.food1 p{
+    color: grey;
+    margin-top: 20px;
+}
+.food2 img{
+    width: 300px;
+    height: 300px;
+    
+}
+.food{
+    display: flex;
+    margin-top:100px ;
+    justify-content: center;
+    gap: 150px;
+    
+}
+.good1 img{
+    width: 300px;
+    height: 300px;
+}
+.good2{
+    width: 500px;
+    margin-top: 100px;
+
+}
+.good{
+    display: flex;
+    margin-top:50px ;
+    justify-content: center;
+    gap: 150px;
+    
+}
+.good2 p{
+    color: grey;
+    margin-top: 20px;
+}
