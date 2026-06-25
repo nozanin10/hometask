@@ -178,11 +178,121 @@
 
 }
 .work{
-    color: rgb(129, 127, 127);
+    color: rgb(90, 88, 88);
 }
 .cont{
  margin-left: 500px;
  margin-top: 100px;
   
 
+}
+.card1 img{
+    width: 300px;
+    height: 350px;
+    
+
+}
+.card1  p{
+    width: 300px;
+    color: grey;
+}
+.card1 h1{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.lo{
+    margin-top: 40px;
+    
+}
+.carda{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 100px;
+}
+.lost1 p{
+    color: rgb(175, 172, 172);
+    margin-bottom: 10px;
+    
+
+
+}
+.lost{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.lost1 h1{
+    margin-bottom: 20px;
+}
+.h{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 20px;
+    padding: 10px;
+
+}
+.yes{
+    width: 300px;
+}
+.yo{
+    display: flex;
+    gap: 30px;
+    margin-top:30px ;
+}
+
+
+.main {
+    width: 100%;
+}
+
+
+.kartochka {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-top:50px;
+    width: 500px;
+}
+
+
+.sar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sar h3 {
+    margin: 0;
+    color: #2c3e6b;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+.matn {
+    margin-top: 15px;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 15px;
+}
+
+.matn p {
+    margin: 0;
+    color: #7a869a;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.yooo{
+    display: flex;
+    gap: 300px;
 }
